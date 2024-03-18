@@ -1,0 +1,41 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "21232f297a57a5a743894a0e4a801fc3",
+    "loginToken": "8bcc69f09afb007fbd0e079567ecde3a",
+    "logs": [
+      {
+        "time": "2024-03-18T08:17:51.873Z",
+        "type": "ERROR",
+        "message": "Build Failed - Wrong Java Version Installed. Detected openjdk version \"20.0.2\" 20. Please use Java 1.8.0"
+      },
+      {
+        "time": "2024-03-18T08:22:04.741Z",
+        "type": "ERROR",
+        "message": "Build Failed - Wrong Java Version Installed. Detected openjdk version \"20.0.2\" 20. Please use Java 1.8.0"
+      },
+      {
+        "time": "2024-03-18T08:27:17.868Z",
+        "type": "ERROR",
+        "message": "Build Failed - Wrong Java Version Installed. Detected openjdk version \"20.0.2\" 20. Please use Java 1.8.0"
+      },
+      {
+        "time": "2024-03-18T08:49:14.472Z",
+        "type": "ERROR",
+        "message": "Build Failed - Wrong Java Version Installed. Detected openjdk version \"20.0.2\" 20. Please use Java 1.8.0"
+      },
+      {
+        "time": "2024-03-18T08:54:17.818Z",
+        "type": "ERROR",
+        "message": "Build Failed - Wrong Java Version Installed. Detected openjdk version \"20.0.2\" 20. Please use Java 1.8.0"
+      },
+      {
+        "time": "2024-03-18T08:59:50.656Z",
+        "type": "ERROR",
+        "message": "Build Failed - Wrong Java Version Installed. Detected openjdk version \"20.0.2\" 20. Please use Java 1.8.0"
+      }
+    ],
+    "ipLog": []
+  },
+  "clients": []
+}
